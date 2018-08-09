@@ -1,0 +1,3 @@
+* to add another image to the slide:
+** add another li item with successive slide-to number.
+** add another div class with img.
